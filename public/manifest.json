@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ETS2 Telemetry SPA",
+  "name": "SPA for ETS2 Telemetry Server Metrics",
   "icons": [
     {
       "src": "favicon.ico",
